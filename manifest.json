@@ -15,7 +15,7 @@
             "partnumber": "Ennnnn_01",
             "publisheddate": "02/15/2021",
             "contentid": "12nnnn",
-            "filename": "./OCI-RM.md"
+            "filename": "https://osblaineora.github.io/cicd-tools-db-dev//Overview.md/OCI-Config.md"
         },
         {         
             "title": "Lab 2: Database",
@@ -27,7 +27,7 @@
         },
         {         
             "title": "Lab 3: Compute",
-            "description": "Multi-container Application deployment using a Database",
+            "description": "Create an Always-Free Compute instance",
             "partnumber": "Ennnnn_01",
             "publisheddate": "02/15/2021",
             "contentid": "12nnnn",
@@ -35,7 +35,7 @@
         },
         {         
             "title": "Lab 4: Configure",
-            "description": "Multi-container Application deployment using a Database",
+            "description": "Install and Configure Applications",
             "partnumber": "Ennnnn_01",
             "publisheddate": "02/15/2021",
             "contentid": "12nnnn",
