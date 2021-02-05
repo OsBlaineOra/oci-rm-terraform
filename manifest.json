@@ -1,0 +1,61 @@
+{
+    "tutorials": [
+        
+        {         
+            "title": "Create Oracle Cloud objects using Resource Manager and Terraform",
+            "description": "Introduction to the workshop",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Overview.md"
+        },
+        {         
+            "title": "Lab 1: OCI Resource Manager",
+            "description": "Resource Manager Overview",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./OCI-RM.md"
+        },
+        {         
+            "title": "Lab 2: Database",
+            "description": "Create an Always-Free ATP Database",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Database.md"
+        },
+        {         
+            "title": "Lab 3: Compute",
+            "description": "Multi-container Application deployment using a Database",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Compute.md"
+        },
+        {         
+            "title": "Lab 4: Configure",
+            "description": "Multi-container Application deployment using a Database",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Configure.md"
+        },
+        {         
+            "title": "Clean up",
+            "description": "Multi-container Application deployment using a Database",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Cleanup.md"
+        },
+        {         
+            "title": "Resources",
+            "description": "Want to Learn More?",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "02/15/2021",
+            "contentid": "12nnnn",
+            "filename": "./Resources.md"
+        }
+    ]
+}
